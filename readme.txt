@@ -1,3 +1,3 @@
 Git is the best in this world.
 I also love git too.
-I also love gutian.
+I love gutian.
